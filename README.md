@@ -5,8 +5,8 @@
 ## About This Repository
 The analysis methods and code used for each character are similar, so this repository includes the code and analysis process for only **one character—Choo Sang-woo** as an example. The code is organized into two main files for convenience:
 
-**Collecting Data**: This file contains the code used to scrape and preprocess data from various platforms, including Reddit, AO3, and Canon sources.  
-**Analysis Data**: This file includes the code for analyzing the preprocessed data, such as sentiment analysis, frequency analysis, and visualization of results.  
+**Collecting Process**: This file contains the code used to scrape and preprocess data from various platforms, including Reddit, AO3, and Canon sources.  
+**Analysis Process**: This file includes the code for analyzing the preprocessed data, such as sentiment analysis, frequency analysis, and visualization of results.  
 
 ## Database Structure
 For each character, the relevant data is organized into three folders:
